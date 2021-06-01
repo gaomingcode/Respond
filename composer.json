@@ -1,0 +1,15 @@
+{
+  "name": "gaomingcode/html5shiv",
+  "type": "component",
+  "license": [
+    "MIT",
+    "GPL-2.0"
+  ],
+  "extra": {
+    "component": {
+      "scripts": [
+        "dist/respond.src.js
+      ]
+    }
+  }
+}
