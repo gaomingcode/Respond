@@ -8,7 +8,7 @@
   "extra": {
     "component": {
       "scripts": [
-        "dist/respond.src.js
+        "dest/respond.src.js
       ]
     }
   }
