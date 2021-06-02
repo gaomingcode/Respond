@@ -1,6 +1,6 @@
 {
   "name": "gaomingcode/respond",
-  "type": "component",
+  "type": "library",
   "license": [
     "MIT",
     "GPL-2.0"
