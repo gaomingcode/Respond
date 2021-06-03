@@ -1,15 +1,22 @@
 {
-  "name": "gaomingcode/respond",
-  "type": "library",
-  "license": [
-    "MIT",
-    "GPL-2.0"
-  ],
-  "extra": {
-    "component": {
-      "scripts": [
-        "dest/respond.src.js"
-      ]
+    "name": "gaomingcode/respond",
+    "description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+    "type": "library",
+    "license": [
+        "MIT",
+        "GPL-2.0"
+    ],
+    "keywords": [
+        "respond"
+    ],
+    "homepage": "https://alistapart.com/article/responsive-web-design/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "extra": {
+        "component": {
+            "scripts": [
+                "dest/respond.src.js"
+            ]
+        }
     }
-  }
 }
