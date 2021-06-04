@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/respond.svg)](https://github.com/gaomingcode/respond)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/respond)](https://github.com/gaomingcode/respond)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/respond)](https://github.com/gaomingcode/respond)
+[![Github License](https://img.shields.io/github/license/gaomingcode/respond)](https://github.com/gaomingcode/respond)
 
 ## Installation
 
@@ -11,8 +11,8 @@
 ```
 composer require gaomingcode/respond
 ```
-###
 
+## ReadMe from Origin
 ### A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 
  - Copyright 2011: Scott Jehl, scottjehl.com
@@ -22,7 +22,6 @@ composer require gaomingcode/respond
 The goal of this script is to provide a fast and lightweight (3kb minified / 1kb gzipped) script to enable [responsive web designs](http://www.alistapart.com/articles/responsive-web-design/) in browsers that don't support CSS3 Media Queries - in particular, Internet Explorer 8 and under. It's written in such a way that it will probably patch support for other non-supporting browsers as well (more information on that soon).
 
 If you're unfamiliar with the concepts surrounding Responsive Web Design, you can read up [here](http://www.alistapart.com/articles/responsive-web-design/) and also [here](https://scottjehl.github.io/picturefill/)
-
 
 [Demo page](https://scottjehl.github.io/Respond/test/test.html) (the colors change to show media queries working)
 
